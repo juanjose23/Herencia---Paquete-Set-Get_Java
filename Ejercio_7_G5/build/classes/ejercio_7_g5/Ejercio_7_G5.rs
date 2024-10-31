@@ -1,0 +1,7 @@
+ejercio_7_g5.Cuadrado
+ejercio_7_g5.Cuadrilatero
+ejercio_7_g5.Trapezoide
+ejercio_7_g5.Rectangulo
+ejercio_7_g5.Ejercio_7_G5
+ejercio_7_g5.Punto
+ejercio_7_g5.Paralelogramo

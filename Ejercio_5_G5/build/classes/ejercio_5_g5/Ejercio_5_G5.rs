@@ -1,0 +1,6 @@
+ejercio_5_g5.Ejercio_5_G5
+ejercio_5_g5.Tecnico
+ejercio_5_g5.Empleado
+ejercio_5_g5.Operario
+ejercio_5_g5.Oficial
+ejercio_5_g5.Directivo

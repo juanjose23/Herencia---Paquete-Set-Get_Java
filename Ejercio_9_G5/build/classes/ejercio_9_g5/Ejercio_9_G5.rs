@@ -1,0 +1,8 @@
+ejercio_9_g5.Geometrias
+ejercio_9_g5.Triangulo
+ejercio_9_g5.Cuadrado
+ejercio_9_g5.Figuras
+ejercio_9_g5.Circulo
+ejercio_9_g5.Ejercio_9_G5
+ejercio_9_g5.Rectangulo
+ejercio_9_g5.Rombo
